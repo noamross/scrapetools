@@ -45,7 +45,8 @@ map_curl <-
     .f <- purrr::as_mapper(.f)
     if (is.numeric(.delay)) {
       delay_fn <- function() Sys.sleep(.delay)
-    } else if (is.function(.delay)) {
+    } else {
+      .delay <- rlang::as_function(.delay)
       delay_fn <- function() Sys.sleep(.delay())
     }
     if (!is.null(.files)) {
