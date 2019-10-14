@@ -56,19 +56,19 @@ map_curl <-
     make_handle <- function(i) {
       h <- new_handle(url = urls[i])
       if (!is.null(.handle_opts)) {
-        if (inherits(.handle_opts[1], "list"))
+        if (inherits(.handle_opts[[1]], "list"))
           h <- handle_setform(h, .list = .handle_opts[[i]])
         else
           h <- handle_setopt(h, .list = .handle_opts)
       }
       if (!is.null(.handle_headers)) {
-        if (inherits(.handle_headers[1], "list"))
+        if (inherits(.handle_headers[[1]], "list"))
           h <- handle_setform(h, .list = .handle_headers[[i]])
         else
           h <- handle_setheaders(h, .list = .handle_headers)
       }
       if (!is.null(.handle_form)) {
-        if (inherits(.handle_form[1], "list"))
+        if (inherits(.handle_form[[1]], "list"))
           h <- handle_setform(h, .list = .handle_form[[i]])
         else
           h <- handle_setform(h, .list = .handle_form)
