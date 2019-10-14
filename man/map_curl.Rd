@@ -8,7 +8,7 @@
 map_curl(urls, .f = identity, ..., .logfile = NULL, .verbose = TRUE,
   .files = NULL, .total_con = 100L, .host_con = 6L, .timeout = Inf,
   .delay = 0, .handle_opts = list(low_speed_limit = 100, low_speed_time
-  = 30), .handle_headers = NULL, .handle_form = NULL, .retry = 1)
+  = 30), .handle_headers = NULL, .handle_form = NULL, .retry = 0)
 
 attempts(x)
 }
