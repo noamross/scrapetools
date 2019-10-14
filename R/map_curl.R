@@ -38,7 +38,7 @@ map_curl <-
   function(urls, .f = identity, ..., .logfile = NULL, .verbose = TRUE, .files = NULL,
            .total_con = 100L, .host_con = 6L, .timeout = Inf, .delay = 0,
            .handle_opts = list(low_speed_limit = 100, low_speed_time = 30),
-           .handle_headers = NULL, .handle_form = NULL, .retry = 1) {
+           .handle_headers = NULL, .handle_form = NULL, .retry = 0) {
 
     out <- structure(vector("list", length(urls)), .Names = urls)
     attempts <- structure(rep(0, length(urls)), .Names = urls)
@@ -99,7 +99,7 @@ map_curl <-
         cat(format(Sys.time()), "- Failed: ", urls[i], ",", err, "\n", file = .logfile, append = TRUE)
       }
       attempts[[urls[i]]] <<- attempts[[urls[i]]] + 1
-      if (attempts[[urls[i]]] < .retry)
+      if (attempts[[urls[i]]] <= .retry)
         multi_add(make_handle(i), done = done_fn, pool = map_pool,
                   fail = function(err) fail_fn(err, i))
       delay_fn()
