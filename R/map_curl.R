@@ -80,7 +80,9 @@ map_curl <-
 
     done_fn <- function(resp) {
       if (!is.null(.files)) {
-        writeBin(.files[[resp$url]], resp$content)
+        con <- file(.files[resp$url], "wb")
+        writeBin(con, resp$content)
+        close.connection(con)
       }
       out[[resp$url]] <<- .f(resp, ...)
       attempts[[resp$url]] <<- attempts[[resp$url]] + 1
