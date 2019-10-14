@@ -1,0 +1,19 @@
+Package: scrapetools
+Title: Tools for scraping web data
+Version: 0.0.1
+Authors@R: 
+    person(given = "Ross",
+           family = "Noam",
+           role = c("aut", "cre"),
+           email = "noam.ross@gmail.com",
+           comment = c(ORCID = "0000-0002-2136-0000"))
+Author: Noam Ross
+Description: Tools for scraping web data, including for slow and ill-behaved
+    websites.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    curl,
+    purrr
+RoxygenNote: 6.1.1

@@ -1,0 +1,57 @@
+2019-10-14 10:21:40 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=0&wild=0&country=ATG&this_country_code=ATG&detailed=1 
+2019-10-14 10:21:40 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2008&semester=2&wild=0&country=LCA&this_country_code=LCA&detailed=1 
+2019-10-14 10:21:42 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2016&semester=1&wild=0&country=TON&this_country_code=TON&detailed=1 
+2019-10-14 10:21:44 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2012&semester=2&wild=0&country=AZE&this_country_code=AZE&detailed=1 
+2019-10-14 10:21:45 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=2&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:21:45 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2018&semester=1&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:21:47 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=2&wild=0&country=SYR&this_country_code=SYR&detailed=1 
+2019-10-14 10:21:47 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=1&wild=0&country=HRV&this_country_code=HRV&detailed=1 
+2019-10-14 10:21:47 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2011&semester=0&wild=0&country=TZA&this_country_code=TZA&detailed=1 
+2019-10-14 10:21:48 - Failed: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:21:48 - Failed: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:21:48 - Failed: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:21:48 - Failed: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:21:48 - Failed: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:22:27 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=0&wild=0&country=ATG&this_country_code=ATG&detailed=1 
+2019-10-14 10:22:27 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2008&semester=2&wild=0&country=LCA&this_country_code=LCA&detailed=1 
+2019-10-14 10:22:28 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2016&semester=1&wild=0&country=TON&this_country_code=TON&detailed=1 
+2019-10-14 10:22:30 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2012&semester=2&wild=0&country=AZE&this_country_code=AZE&detailed=1 
+2019-10-14 10:22:31 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=2&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:22:31 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2018&semester=1&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:22:34 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=1&wild=0&country=HRV&this_country_code=HRV&detailed=1 
+2019-10-14 10:22:34 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=2&wild=0&country=SYR&this_country_code=SYR&detailed=1 
+2019-10-14 10:22:35 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2011&semester=0&wild=0&country=TZA&this_country_code=TZA&detailed=1 
+2019-10-14 10:22:35 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:22:35 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:22:35 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:22:35 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:22:35 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 
+2019-10-14 10:25:03 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=0&wild=0&country=ATG&this_country_code=ATG&detailed=1 
+2019-10-14 10:25:03 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2008&semester=2&wild=0&country=LCA&this_country_code=LCA&detailed=1 
+2019-10-14 10:25:04 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2016&semester=1&wild=0&country=TON&this_country_code=TON&detailed=1 
+2019-10-14 10:25:05 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2018&semester=1&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:25:07 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2012&semester=2&wild=0&country=AZE&this_country_code=AZE&detailed=1 
+2019-10-14 10:25:07 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=2&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:25:09 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=1&wild=0&country=HRV&this_country_code=HRV&detailed=1 
+2019-10-14 10:25:10 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2011&semester=0&wild=0&country=TZA&this_country_code=TZA&detailed=1 
+2019-10-14 10:25:10 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=2&wild=0&country=SYR&this_country_code=SYR&detailed=1 
+2019-10-14 10:25:11 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , Operation too slow. Less than 100 bytes/sec transferred the last 10 seconds 
+2019-10-14 10:25:11 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , No URL set! 
+2019-10-14 10:25:11 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , No URL set! 
+2019-10-14 10:25:11 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , No URL set! 
+2019-10-14 10:25:11 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , No URL set! 
+2019-10-14 10:29:18 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2008&semester=2&wild=0&country=LCA&this_country_code=LCA&detailed=1 
+2019-10-14 10:29:18 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=0&wild=0&country=ATG&this_country_code=ATG&detailed=1 
+2019-10-14 10:29:19 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2016&semester=1&wild=0&country=TON&this_country_code=TON&detailed=1 
+2019-10-14 10:29:22 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2012&semester=2&wild=0&country=AZE&this_country_code=AZE&detailed=1 
+2019-10-14 10:29:24 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=1&wild=0&country=HRV&this_country_code=HRV&detailed=1 
+2019-10-14 10:29:24 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2018&semester=1&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:29:24 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2009&semester=2&wild=0&country=KHM&this_country_code=KHM&detailed=1 
+2019-10-14 10:29:24 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2013&semester=2&wild=0&country=SYR&this_country_code=SYR&detailed=1 
+2019-10-14 10:29:27 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2011&semester=0&wild=0&country=TZA&this_country_code=TZA&detailed=1 , Operation too slow. Less than 100 bytes/sec transferred the last 10 seconds 
+2019-10-14 10:29:27 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , Operation too slow. Less than 100 bytes/sec transferred the last 10 seconds 
+2019-10-14 10:29:33 - Fetched: https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2011&semester=0&wild=0&country=TZA&this_country_code=TZA&detailed=1 
+2019-10-14 10:29:37 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , Operation too slow. Less than 100 bytes/sec transferred the last 10 seconds 
+2019-10-14 10:29:47 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , Operation too slow. Less than 100 bytes/sec transferred the last 10 seconds 
+2019-10-14 10:29:57 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , Operation too slow. Less than 100 bytes/sec transferred the last 10 seconds 
+2019-10-14 10:30:07 - Failed:  https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/semestrial/review?year=2019&semester=1&wild=0&country=TUR&this_country_code=TUR&detailed=1 , Operation too slow. Less than 100 bytes/sec transferred the last 10 seconds 
