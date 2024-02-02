@@ -19,7 +19,7 @@
 #' @param .host_con Connections allowed to a single host at the same time
 #' @param .timeout Timeout for the whole process
 #' @param .delay Either a number in seconds or a zero-argument function that
-#'   genrates a single number.
+#'   generates a single number.
 #' @param .handle_opts a list of options passed [curl::handle_setopt()]. Can be
 #'   a list of lists the same length as `urls`.
 #' @param .handle_headers  a list of options passed [curl::handle_setheaders()]
